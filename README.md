@@ -50,4 +50,4 @@ height="450px">
 <p dir="auto"><a href="https://github.com/dongury1114"><img width="120" src="https://img.shields.io/badge/Leader-%EC%9D%B4%EB%8F%99%EA%B7%9C-blue" style="max-width: 100%;"></a></p>
 <p dir="auto"><a href="https://github.com/Mijungle"><img width="120" src="https://img.shields.io/badge/Frontend-%EC%9D%B4%EB%AF%B8%EC%A0%95-skyblue" style="max-width: 100%;"></a></p>
 <p dir="auto"><a href="https://github.com/ktkdgh"><img width="120" src="https://img.shields.io/badge/Backend-%EA%B9%80%EC%83%81%ED%98%B8-blue" style="max-width: 100%;"></a></p>
-<p dir="auto"><a href="https://github.com/ZTeams"><img width="120" src="https://img.shields.io/badge/Backend-%EC%8B%AC%EC%9A%B0%EC%8B%9D-green" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://github.com/WooosikS"><img width="120" src="https://img.shields.io/badge/Backend-%EC%8B%AC%EC%9A%B0%EC%8B%9D-green" style="max-width: 100%;"></a></p>
